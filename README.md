@@ -1,14 +1,11 @@
-# Hello, I'm CHANGEME
+# Hello, I'm John Rick Lazaro
 
+IT Graduate and CompTIA Security+ Certified seeking an entry-level cybersecurity role focused on 
+defensive security operations, threat detection, and incident response. A proactive and reliable team player with 
+foundational knowledge in network security, risk management, access control, and a strong commitment to 
+continuous learning and professional development to strengthen cybersecurity expertise.  
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My background in Information Technology and Cybersecurity Training, including CompTIA Security+ and hands-on SOC simulations, has strengthened my interest in the field, and I am eager to begin my career as a Security Operations Center (SOC) Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
